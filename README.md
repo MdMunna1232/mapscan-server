@@ -11,7 +11,7 @@ that runs entirely in your browser, this is it: search any place on Google Maps,
 hit **Start extracting**, and download a clean spreadsheet of business leads —
 names, addresses, phone numbers, websites, ratings, reviews and more.
 
-**🌐 Website & docs: [geoleadscraper.com](https://mts.is-best.net)** — install guide, how-to and FAQ.
+**🌐 Website & docs: [mts.com](https://mts.is-best.net)** — install guide, how-to and FAQ.
 
 <p>
   <a href="https://geoleadscraper.com/"><img alt="Website" src="https://img.shields.io/badge/website-geoleadscraper.com-0a7cff.svg"></a>
@@ -132,9 +132,9 @@ leads scraper · yandex maps scraper · 2gis scraper · email & phone scraper ·
 export google maps to csv/excel · open-source web scraper · no API key.
 
 ## Links
-- 🌐 Website & docs: **[geoleadscraper.com](https://mts.is-best.net)**
-- 📖 How to use: [geoleadscraper.com/how-to-use](https://mts.is-best.net)
-- ❓ FAQ: [geoleadscraper.com/faq](https://mts.is-best.net)
+- 🌐 Website & docs: **[mts](https://mts.is-best.net)**
+- 📖 How to use: [mts](https://mts.is-best.net)
+- ❓ FAQ: [mts](https://mts.is-best.net)
 
 ## License
 [MIT](./LICENSE) — free for personal and commercial use.
